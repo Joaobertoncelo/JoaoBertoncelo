@@ -19,6 +19,8 @@
   <img align="center" alt="JAVA" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div>
+  
+  ![Snake animation](https://github.com/joaobertoncelo/joaobertoncelo/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
