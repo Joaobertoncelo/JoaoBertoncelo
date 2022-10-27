@@ -1,5 +1,6 @@
 ### Hey there👋
 
+- 💻 I'm a full-stack developer chasing to learn new technologies and improve the knowledge i already have
 - 🌱 I’m currently learning full stack game development
 - 📫 How to reach me: jperesbertoncelo@gmail.com
 
