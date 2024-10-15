@@ -21,7 +21,11 @@
   <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div>
   
-  ![Snake animation](https://github.com/joaobertoncelo/joaobertoncelo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaobertoncelo/joaobertoncelo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaobertoncelo/joaobertoncelo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaobertoncelo/joaobertoncelo/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 
