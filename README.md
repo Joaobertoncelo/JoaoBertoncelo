@@ -1,7 +1,7 @@
 ### Hey there👋
 
 - 💻 I'm a game developer chasing to learn new technologies and improve the knowledge i already have
-- 🌱 I’m currently learning game development on the unity platform and pixel art using Aseprite
+- 🌱 I’m currently learning game development on unity platform and pixel art using Aseprite
 - 🤔 If you have any tips or ideas about game development, i'd be glad to listen! 😉
 - 📫 How to reach me: jperesbertoncelo@gmail.com
 
